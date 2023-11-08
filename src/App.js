@@ -152,3 +152,4 @@ function App() {
 export default App;
 
 /* this is comment 1 */
+/* this is comment 2*/
