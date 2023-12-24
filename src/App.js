@@ -156,8 +156,3 @@ export default App;
 /* this is comment 3 */
 /* this is comment 4 */
 /* this is comment 5 */
-/* this is comment 6 */
-/* this is comment 7 */
-/* this is comment 8 */
-/* this is comment 9 */
-/* this is comment 10 */
